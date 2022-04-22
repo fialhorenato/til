@@ -6,7 +6,13 @@
 
 #### Tech
 
-* [PL/SQL](#plsql)
+- [TIL](#til)
+    - [Categories](#categories)
+      - [Tech](#tech)
+  - [Tech](#tech-1)
+    - [PL/SQL](#plsql)
+    - [Docker](#docker)
+    - [Git](#git)
 
 ---
 
@@ -20,3 +26,7 @@
 ### Docker
 
 - [Apply a local dump into a PostgreSQL image running on Docker](docker/pg_restore.md)
+
+### Git
+
+- [Remove already rebased branches locally](git/remove-rebased-branches.md)
